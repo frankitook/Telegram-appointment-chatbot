@@ -51,7 +51,7 @@ public class MiBotTelegramm extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "6893369527:AAGU1FayZQScj4t3O1VqnMqbeVsPbyr4m48"; 
+        return "6893369527:AAGU1FayZQScj4t3O1VqnMqbeVsPbyr4m4adss8"; 
     }
 
 @Override
